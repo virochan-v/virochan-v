@@ -1,0 +1,225 @@
+<svg viewBox="0 0 800 492" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+  <!-- Neon glow filter -->
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <!-- Strong glow for name -->
+  <filter id="glow2" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="4.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <!-- Pulse glow for status dot -->
+  <filter id="glow3" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <!-- Scanline CRT effect -->
+  <pattern id="scan" x="0" y="0" width="800" height="4" patternUnits="userSpaceOnUse">
+    <rect width="800" height="1" y="3" fill="rgba(0,0,0,0.10)"/>
+  </pattern>
+
+  <style>
+    text { font-family: 'Courier New', Courier, monospace; }
+    .l   { opacity: 0; }
+    .l01 { animation: ap .15s  0.30s forwards; }
+    .l02 { animation: ap .15s  0.55s forwards; }
+    .l03 { animation: ap .15s  1.50s forwards; }
+    .l04 { animation: ap .15s  1.90s forwards; }
+    .l05 { animation: ap .15s  2.25s forwards; }
+    .l06 { animation: ap .15s  2.50s forwards; }
+    .l07 { animation: ap .15s  2.70s forwards; }
+    .l08 { animation: ap .15s  2.90s forwards; }
+    .l09 { animation: ap .15s  3.10s forwards; }
+    .l10 { animation: ap .15s  3.30s forwards; }
+    .l11 { animation: ap .15s  3.50s forwards; }
+    .l12 { animation: ap .15s  3.70s forwards; }
+    .l13 { animation: ap .15s  3.90s forwards; }
+    .l14 { animation: ap .15s  4.10s forwards; }
+    .l15 { animation: ap .15s  4.30s forwards; }
+    .l16 { animation: ap .15s  4.50s forwards; }
+    .l17 { animation: ap .15s  4.75s forwards; }
+    .l18 { animation: ap .15s  5.05s forwards; }
+    .l19 { animation: ap .15s  5.35s forwards; }
+    .cur { opacity: 0; animation: blink .85s 5.6s infinite; }
+    @keyframes ap    { to { opacity: 1; } }
+    @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+  </style>
+</defs>
+
+<!-- ── Terminal Shell ── -->
+<rect width="800" height="492" rx="12" fill="#0D1117"/>
+
+<!-- Title bar -->
+<rect width="800" height="36" rx="12" fill="#161B22"/>
+<rect y="22"  width="800" height="14" fill="#161B22"/>
+
+<!-- Traffic lights -->
+<circle cx="22" cy="18" r="6" fill="#FF5F57"/>
+<circle cx="44" cy="18" r="6" fill="#FEBC2E"/>
+<circle cx="66" cy="18" r="6" fill="#28C840"/>
+
+<!-- Title -->
+<text x="400" y="22" fill="#6E7681" font-size="12" text-anchor="middle">virochan@profile — boot.sh</text>
+
+<!-- Scanlines -->
+<rect width="800" height="492" fill="url(#scan)" rx="12" opacity="0.5"/>
+
+
+<!-- ══════════════ CONTENT ══════════════ -->
+
+<!-- L01  $ java -jar VirochanProfile.jar -->
+<g class="l l01">
+  <text x="20"  y="62" fill="#00FF9C" font-size="13" font-weight="bold" filter="url(#glow)">root@virochan</text>
+  <text x="147" y="62" fill="#C9D1D9" font-size="13">:~$  java -jar VirochanProfile.jar</text>
+</g>
+
+<!-- L02  [BOOT] -->
+<g class="l l02">
+  <text x="20"  y="80" fill="#8B949E" font-size="12">[BOOT]</text>
+  <text x="80"  y="80" fill="#C9D1D9" font-size="12">Initializing profile system ...</text>
+</g>
+
+<!-- Progress bar bg (appears with L02) -->
+<rect x="80" y="87" width="530" height="12" rx="2" fill="#161B22" class="l l02"/>
+
+<!-- Progress bar fill — SMIL width animation -->
+<rect x="80" y="87" height="12" rx="2" fill="#00FF9C" filter="url(#glow)" width="0">
+  <animate attributeName="width" from="0" to="530" dur="0.70s" begin="0.60s" fill="freeze"/>
+</rect>
+
+<!-- 100% label (appears after bar fills) -->
+<g class="l l03">
+  <text x="618" y="98" fill="#00FF9C" font-size="11" font-weight="bold">100%</text>
+  <text x="80"  y="112" fill="#00FF9C" font-size="12" filter="url(#glow)">[OK]</text>
+  <text x="120" y="112" fill="#C9D1D9" font-size="12">All systems nominal. No anomalies detected.</text>
+</g>
+
+<!-- ── Separator 1 ── -->
+<g class="l l04">
+  <text x="20" y="130" fill="#21262D" font-size="12">──────────────────────────────────────────────────────────────────────</text>
+</g>
+
+<!-- ── Name Banner ── -->
+<g class="l l05">
+  <text x="20"  y="162" fill="#00FF9C" font-size="30" font-weight="bold" filter="url(#glow2)">VIROCHAN V</text>
+  <text x="272" y="162" fill="#6E7681" font-size="14">  //  Software Engineer  ·  Java Developer  ·  DSA Specialist</text>
+</g>
+
+<!-- ── Separator 2 ── -->
+<g class="l l06">
+  <text x="20" y="179" fill="#21262D" font-size="12">──────────────────────────────────────────────────────────────────────</text>
+</g>
+
+<!-- ── Identity Block ── -->
+<g class="l l07">
+  <text x="20"  y="198" fill="#00FF9C" font-size="12">COLLEGE </text>
+  <text x="105" y="198" fill="#6E7681" font-size="12">›</text>
+  <text x="120" y="198" fill="#C9D1D9" font-size="12">R.M.D. Engineering College  |  B.Tech CSBS  |  CGPA: 7.91</text>
+</g>
+
+<g class="l l08">
+  <text x="20"  y="217" fill="#00FF9C" font-size="12">ROLE    </text>
+  <text x="105" y="217" fill="#6E7681" font-size="12">›</text>
+  <text x="120" y="217" fill="#C9D1D9" font-size="12">Software Engineer  ·  Backend  ·  Java Full-Stack</text>
+</g>
+
+<g class="l l09">
+  <text x="20"  y="236" fill="#00FF9C" font-size="12">STACK   </text>
+  <text x="105" y="236" fill="#6E7681" font-size="12">›</text>
+  <text x="120" y="236" fill="#C9D1D9" font-size="12">Java  ·  SQL  ·  Git  ·  Linux  ·  Azure</text>
+</g>
+
+<g class="l l10">
+  <text x="20"  y="255" fill="#00FF9C" font-size="12">CERT    </text>
+  <text x="105" y="255" fill="#6E7681" font-size="12">›</text>
+  <text x="120" y="255" fill="#C9D1D9" font-size="12">Oracle AI Foundations Associate  ·  Oracle Gen AI Professional</text>
+</g>
+
+<g class="l l11">
+  <text x="20"  y="274" fill="#00FF9C" font-size="12">TOEFL   </text>
+  <text x="105" y="274" fill="#6E7681" font-size="12">›</text>
+  <text x="120" y="274" fill="#C9D1D9" font-size="12">603 / 677  —  Listening: C1  ·  Reading: C1</text>
+</g>
+
+<!-- ── Separator 3 ── -->
+<g class="l l12">
+  <text x="20" y="291" fill="#21262D" font-size="12">──────────────────────────────────────────────────────────────────────</text>
+  <text x="20" y="307" fill="#8B949E" font-size="11" letter-spacing="2">[ ACHIEVEMENTS ]</text>
+</g>
+
+<!-- ── Achievements ── -->
+<g class="l l13">
+  <text x="20"  y="325" fill="#FFA116" font-size="12" font-weight="bold">1st PRIZE  </text>
+  <text x="108" y="325" fill="#6E7681" font-size="12">›</text>
+  <text x="123" y="325" fill="#C9D1D9" font-size="12">Fuse Hackathon — IIFT Kakinada</text>
+  <text x="453" y="325" fill="#8B949E" font-size="11">(+Rs. 10,000 cash prize)</text>
+</g>
+
+<g class="l l14">
+  <text x="20"  y="344" fill="#FFA116" font-size="12" font-weight="bold">2nd RUNNER </text>
+  <text x="108" y="344" fill="#6E7681" font-size="12">›</text>
+  <text x="123" y="344" fill="#C9D1D9" font-size="12">PitchStorm — NIT Tiruchirappalli</text>
+  <text x="453" y="344" fill="#8B949E" font-size="11">(National Level)</text>
+</g>
+
+<g class="l l15">
+  <text x="20"  y="363" fill="#FFA116" font-size="12" font-weight="bold">L2 QUAL    </text>
+  <text x="108" y="363" fill="#6E7681" font-size="12">›</text>
+  <text x="123" y="363" fill="#C9D1D9" font-size="12">HackWithInfy 2026</text>
+  <text x="330" y="363" fill="#8B949E" font-size="11">(Top-Tier National Qualifier)</text>
+</g>
+
+<g class="l l16">
+  <text x="20"  y="382" fill="#FFA116" font-size="12" font-weight="bold">INT'L PUB  </text>
+  <text x="108" y="382" fill="#6E7681" font-size="12">›</text>
+  <text x="123" y="382" fill="#C9D1D9" font-size="12">13th Biltek Congress — Quantum Fault-Tolerant Computation</text>
+</g>
+
+<!-- ── Separator 4 ── -->
+<g class="l l17">
+  <text x="20" y="399" fill="#21262D" font-size="12">──────────────────────────────────────────────────────────────────────</text>
+</g>
+
+<!-- ── Status ── -->
+<g class="l l17">
+  <text x="20"  y="418" fill="#00FF9C" font-size="12" font-weight="bold" filter="url(#glow)">STATUS  </text>
+  <text x="105" y="418" fill="#6E7681" font-size="12">›</text>
+  <text x="120" y="418" fill="#C9D1D9" font-size="12">Open to SWE  ·  Backend  ·  Java Full-Stack  —  Internships &amp; Full-Time</text>
+
+  <!-- Pulsing green dot -->
+  <circle cx="778" cy="414" r="5" fill="#00FF9C" filter="url(#glow3)"/>
+  <circle cx="778" cy="414" r="5" fill="none" stroke="#00FF9C" stroke-width="1.5" opacity="0.9">
+    <animate attributeName="r"       values="5;11;5"   dur="2s" begin="5.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1"    dur="2s" begin="5.4s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- ── Links row ── -->
+<g class="l l18">
+  <text x="20"  y="440" fill="#8B949E" font-size="11">github.com/virochan-v</text>
+  <text x="210" y="440" fill="#30363D" font-size="11">|</text>
+  <text x="222" y="440" fill="#8B949E" font-size="11">linkedin.com/in/virochan-v</text>
+  <text x="444" y="440" fill="#30363D" font-size="11">|</text>
+  <text x="456" y="440" fill="#8B949E" font-size="11">leetcode.com/u/virochan_v</text>
+  <text x="666" y="440" fill="#30363D" font-size="11">|</text>
+  <text x="678" y="440" fill="#8B949E" font-size="11">hackerrank.com</text>
+</g>
+
+<!-- ── Prompt ── -->
+<g class="l l19">
+  <text x="20"  y="463" fill="#00FF9C" font-size="13" font-weight="bold" filter="url(#glow)">root@virochan</text>
+  <text x="147" y="463" fill="#C9D1D9" font-size="13">:~$</text>
+  <text x="178" y="463" fill="#C9D1D9" font-size="13"> git commit -m </text>
+  <text x="320" y="463" fill="#FFA116" font-size="13">"ready for placement season"</text>
+</g>
+
+<!-- Blinking cursor -->
+<rect x="618" y="450" width="9" height="15" fill="#00FF9C" class="cur" filter="url(#glow)"/>
+
+</svg>
