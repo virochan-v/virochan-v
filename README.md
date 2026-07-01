@@ -167,12 +167,12 @@ superpower  : Turns complex problems into efficient, elegant algorithms
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=virochan-v&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=C9D1D9&stroke=0D1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=virochan-v&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&ring_color=00FF9C" />
+<img height="180" src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virochan-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virochan-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=6&count_private=true" />
 
 </div>
 
@@ -183,16 +183,6 @@ superpower  : Turns complex problems into efficient, elegant algorithms
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/virochan_v?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=10" />
-
-</div>
-
----
-
-## `$ render trophy_case --cols 6`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=virochan-v&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" />
 
 </div>
 
