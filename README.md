@@ -140,7 +140,7 @@ superpower  : Turns complex problems into efficient, elegant algorithms
 
 <div align="center">
 
-[![View LogShield](https://img.shields.io/badge/View_LogShield_Repo-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virochan-v)
+[![View LogShield](https://img.shields.io/badge/View_LogShield_Repo-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virochan-v/LogShield)
 
 </div>
 
@@ -163,16 +163,25 @@ superpower  : Turns complex problems into efficient, elegant algorithms
 
 ---
 
+## `$ cat work.history`
+
+**Software Developer Intern** · CODTECH IT SOLUTIONS PVT LTD · *Jul – Aug 2025*
+
+- Developed and tested application modules using **Java** and web technologies
+- Assisted in **API development** and backend logic implementation
+
+---
+
 ## `$ run github_stats --render`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=virochan-v&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&ring_color=00FF9C" />
-<img height="180" src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=virochan-v&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&cache_seconds=1800" />
+<img height="175" src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virochan-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=6&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virochan-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=8&count_private=true&cache_seconds=1800" />
 
 </div>
 
