@@ -176,12 +176,17 @@ superpower  : Turns complex problems into efficient, elegant algorithms
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=virochan-v&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&cache_seconds=1800" />
-<img height="175" src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virochan-v&theme=github_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virochan-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=8&count_private=true&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=virochan-v&theme=github_dark" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virochan-v&theme=github_dark" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virochan-v&theme=github_dark" height="175"/>
 
 </div>
 
