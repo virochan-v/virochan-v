@@ -18,6 +18,16 @@
 
 ---
 
+## `$ ./boot --profile virochan-v`
+
+<div align="center">
+
+<img src="terminal.svg" width="100%" alt="Virochan V — Animated Terminal Profile"/>
+
+</div>
+
+---
+
 ## `$ cat about_me.log`
 
 ```yaml
@@ -50,10 +60,15 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 
 ### ✅ Certifications
 
-| Badge | Certification | Date |
+| | Certification | Date |
 |:---:|---|:---:|
+| 🏅 | OCI Multicloud Architect Professional | Oct 2025 |
 | 🏅 | Oracle AI Foundations Associate | Aug 2025 |
-| 🏅 | Oracle Generative AI Professional | Oct 2025 |
+| 🏅 | OCI Generative AI Professional | Oct 2025 |
+| 🏅 | OCI Foundations Associate | Aug 2025 |
+| 📚 | NPTEL — Human Computer Interaction · **Elite 96%** | 2026 |
+| 📚 | NPTEL — Introduction to Machine Learning | 2025 |
+| 📚 | NPTEL — Google Cloud Computing Foundations | 2024 |
 | 📝 | TOEFL ITP 603/677 — C1 Listening & Reading | Mar 2026 |
 
 </td>
@@ -256,16 +271,6 @@ flowchart LR
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=virochan-v&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
-
----
-
-## `$ ./boot --profile virochan-v`
-
-<div align="center">
-
-<img src="terminal.svg" width="100%" alt="Virochan V — Animated Terminal Profile"/>
 
 </div>
 
