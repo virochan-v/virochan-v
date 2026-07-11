@@ -30,7 +30,7 @@
 <!-- ── L01 · 0.30s ── root@virochan:~$ java -jar VirochanProfile.jar -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0188;0.0281;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="62" fill="#00FF9C" font-size="13" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow)">root@virochan</text>
+  <text x="20" y="62" fill="#FFB000" font-size="13" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow)">root@virochan</text>
   <text x="147" y="62" fill="#C9D1D9" font-size="13" font-family="Courier New, monospace">:~$  java -jar VirochanProfile.jar</text>
 </g>
 
@@ -47,7 +47,7 @@
 </rect>
 
 <!-- Progress bar fill — SMIL width animation with loop reset -->
-<rect x="80" y="87" height="12" rx="2" fill="#00FF9C" filter="url(#glow)" width="0">
+<rect x="80" y="87" height="12" rx="2" fill="#FFB000" filter="url(#glow)" width="0">
   <animate attributeName="width" values="0;0;530;530;0;0" keyTimes="0;0.0375;0.0813;0.8125;0.8438;1" dur="16s" repeatCount="indefinite" calcMode="linear"/>
 </rect>
 
@@ -55,9 +55,9 @@
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0938;0.1031;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
   <text x="618" y="98" fill="#0D1117" font-size="11" font-weight="bold" font-family="Courier New, monospace">100%</text>
-  <text x="20" y="112" fill="#00FF9C" font-size="12" font-family="Courier New, monospace" filter="url(#glow)">[OK]</text>
+  <text x="20" y="112" fill="#FFB000" font-size="12" font-family="Courier New, monospace" filter="url(#glow)">[OK]</text>
   <text x="60" y="112" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">   Profile loaded. Running anomaly check...</text>
-  <text x="490" y="112" fill="#00FF9C" font-size="12" font-family="Courier New, monospace">PASSED</text>
+  <text x="490" y="112" fill="#FFB000" font-size="12" font-family="Courier New, monospace">PASSED</text>
 </g>
 
 <!-- ── L04 · 1.90s ── separator 1 -->
@@ -69,7 +69,7 @@
 <!-- ── L05 · 2.25s ── Name -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1406;0.1500;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="162" fill="#00FF9C" font-size="30" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow2)">VIROCHAN V</text>
+  <text x="20" y="162" fill="#FFB000" font-size="30" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow2)">VIROCHAN V</text>
   <text x="272" y="162" fill="#6E7681" font-size="14" font-family="Courier New, monospace">  //  Software Engineer  ·  Java Developer</text>
 </g>
 
@@ -82,7 +82,7 @@
 <!-- ── L07 · 2.70s ── COLLEGE -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1688;0.1781;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="198" fill="#00FF9C" font-size="12" font-family="Courier New, monospace">COLLEGE </text>
+  <text x="20" y="198" fill="#FFB000" font-size="12" font-family="Courier New, monospace">COLLEGE </text>
   <text x="105" y="198" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="120" y="198" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">R.M.D. Engineering College  |  B.Tech CSBS  |  CGPA: 7.91</text>
 </g>
@@ -90,7 +90,7 @@
 <!-- ── L08 · 2.90s ── ROLE -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1813;0.1906;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="217" fill="#00FF9C" font-size="12" font-family="Courier New, monospace">ROLE    </text>
+  <text x="20" y="217" fill="#FFB000" font-size="12" font-family="Courier New, monospace">ROLE    </text>
   <text x="105" y="217" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="120" y="217" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">Software Engineer  ·  Backend  ·  Java Full-Stack</text>
 </g>
@@ -98,7 +98,7 @@
 <!-- ── L09 · 3.10s ── STACK -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1938;0.2031;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="236" fill="#00FF9C" font-size="12" font-family="Courier New, monospace">STACK   </text>
+  <text x="20" y="236" fill="#FFB000" font-size="12" font-family="Courier New, monospace">STACK   </text>
   <text x="105" y="236" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="120" y="236" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">Java  ·  SQL  ·  Git  ·  Linux  ·  Azure</text>
 </g>
@@ -106,7 +106,7 @@
 <!-- ── L10 · 3.30s ── CERT -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2063;0.2156;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="255" fill="#00FF9C" font-size="12" font-family="Courier New, monospace">CERT    </text>
+  <text x="20" y="255" fill="#FFB000" font-size="12" font-family="Courier New, monospace">CERT    </text>
   <text x="105" y="255" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="120" y="255" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">Oracle AI Foundations  ·  Gen AI Pro  ·  Multicloud Architect</text>
 </g>
@@ -114,7 +114,7 @@
 <!-- ── L11 · 3.50s ── TOEFL -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2188;0.2281;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="274" fill="#00FF9C" font-size="12" font-family="Courier New, monospace">TOEFL   </text>
+  <text x="20" y="274" fill="#FFB000" font-size="12" font-family="Courier New, monospace">TOEFL   </text>
   <text x="105" y="274" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="120" y="274" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">603 / 677  —  Listening: C1  ·  Reading: C1</text>
 </g>
@@ -129,7 +129,7 @@
 <!-- ── L13 · 3.90s ── 1st PRIZE -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2438;0.2531;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="325" fill="#FFA116" font-size="12" font-weight="bold" font-family="Courier New, monospace">1st PRIZE  </text>
+  <text x="20" y="325" fill="#FF8C00" font-size="12" font-weight="bold" font-family="Courier New, monospace">1st PRIZE  </text>
   <text x="108" y="325" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="123" y="325" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">Fuse Hackathon — IIFT Kakinada</text>
   <text x="453" y="325" fill="#8B949E" font-size="11" font-family="Courier New, monospace">(+Rs. 10,000)</text>
@@ -138,7 +138,7 @@
 <!-- ── L14 · 4.10s ── 2nd RUNNER -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2563;0.2656;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="344" fill="#FFA116" font-size="12" font-weight="bold" font-family="Courier New, monospace">2nd RUNNER </text>
+  <text x="20" y="344" fill="#FF8C00" font-size="12" font-weight="bold" font-family="Courier New, monospace">2nd RUNNER </text>
   <text x="120" y="344" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="135" y="344" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">PitchStorm — NIT Tiruchirappalli</text>
   <text x="453" y="344" fill="#8B949E" font-size="11" font-family="Courier New, monospace">(National Level)</text>
@@ -147,7 +147,7 @@
 <!-- ── L15 · 4.30s ── L2 QUAL -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2688;0.2781;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="363" fill="#FFA116" font-size="12" font-weight="bold" font-family="Courier New, monospace">L2 QUAL    </text>
+  <text x="20" y="363" fill="#FF8C00" font-size="12" font-weight="bold" font-family="Courier New, monospace">L2 QUAL    </text>
   <text x="108" y="363" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="123" y="363" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">HackWithInfy 2026 — Top-Tier National</text>
 </g>
@@ -155,7 +155,7 @@
 <!-- ── L16 · 4.50s ── INT'L -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2813;0.2906;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="382" fill="#FFA116" font-size="12" font-weight="bold" font-family="Courier New, monospace">INT'L PUB  </text>
+  <text x="20" y="382" fill="#FF8C00" font-size="12" font-weight="bold" font-family="Courier New, monospace">INT'L PUB  </text>
   <text x="108" y="382" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="123" y="382" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">13th Biltek Congress — Quantum Computation Paper</text>
 </g>
@@ -164,7 +164,7 @@
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2969;0.3063;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
   <text x="20" y="399" fill="#21262D" font-size="12" font-family="Courier New, monospace">──────────────────────────────────────────────────────────────────────</text>
-  <text x="20" y="418" fill="#00FF9C" font-size="12" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow)">STATUS  </text>
+  <text x="20" y="418" fill="#FFB000" font-size="12" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow)">STATUS  </text>
   <text x="105" y="418" fill="#6E7681" font-size="12" font-family="Courier New, monospace">›</text>
   <text x="120" y="418" fill="#C9D1D9" font-size="12" font-family="Courier New, monospace">Open to SWE  ·  Backend  ·  Java Full-Stack — Internships &amp; Full-Time</text>
 </g>
@@ -172,8 +172,8 @@
 <!-- Pulsing status dot -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2969;0.3063;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <circle cx="778" cy="414" r="5" fill="#00FF9C" filter="url(#glow3)"/>
-  <circle cx="778" cy="414" r="5" fill="none" stroke="#00FF9C" stroke-width="1.5">
+  <circle cx="778" cy="414" r="5" fill="#FFB000" filter="url(#glow3)"/>
+  <circle cx="778" cy="414" r="5" fill="none" stroke="#FFB000" stroke-width="1.5">
     <animate attributeName="r" values="5;11;5" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
   </circle>
@@ -192,14 +192,14 @@
 <!-- ── L19 · 5.35s ── prompt -->
 <g>
   <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3344;0.3438;0.8125;0.8438;1" dur="16s" repeatCount="indefinite"/>
-  <text x="20" y="463" fill="#00FF9C" font-size="13" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow)">root@virochan</text>
+  <text x="20" y="463" fill="#FFB000" font-size="13" font-weight="bold" font-family="Courier New, monospace" filter="url(#glow)">root@virochan</text>
   <text x="147" y="463" fill="#C9D1D9" font-size="13" font-family="Courier New, monospace">:~$</text>
   <text x="178" y="463" fill="#C9D1D9" font-size="13" font-family="Courier New, monospace"> git commit -m </text>
-  <text x="320" y="463" fill="#FFA116" font-size="13" font-family="Courier New, monospace">"ready for placement season"</text>
+  <text x="320" y="463" fill="#FF8C00" font-size="13" font-family="Courier New, monospace">"ready for placement season"</text>
 </g>
 
 <!-- ── Cursor · blinks 5.60s-13s, then off ── -->
-<rect x="618" y="450" width="9" height="15" fill="#00FF9C" filter="url(#glow)">
+<rect x="618" y="450" width="9" height="15" fill="#FFB000" filter="url(#glow)">
   <animate attributeName="opacity"
     values="0;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;1;0;0;0"
     keyTimes="0;0.3490;0.3500;0.3766;0.4031;0.4297;0.4563;0.4828;0.5094;0.5359;0.5625;0.5891;0.6156;0.6422;0.6688;0.6953;0.7219;0.7484;0.8125;1"

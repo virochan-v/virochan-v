@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d2e,70:00FF9C,100:0D1117&height=240&section=header&text=VIROCHAN%20V&fontSize=64&fontColor=00FF9C&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20DSA%20Specialist&descAlignY=57&descSize=18&animation=fadeIn&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:2d1f00,70:FFB000,100:0D1117&height=240&section=header&text=VIROCHAN%20V&fontSize=64&fontColor=FFB000&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20DSA%20Specialist&descAlignY=57&descSize=18&animation=fadeIn&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=50&lines=root%40virochan%3A~%24+whoami;%E2%86%92+Logic-driven+developer+%26+problem+solver;%E2%86%92+HackWithInfy+2026+%E2%80%94+L2+Competency+Qualifier+%E2%9C%93;%E2%86%92+National+hackathon+winner+%F0%9F%8F%86;%E2%86%92+Open+to+SWE+%7C+Backend+%7C+Java+Full-Stack+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=50&lines=root%40virochan%3A~%24+whoami;%E2%86%92+Logic-driven+developer+%26+problem+solver;%E2%86%92+HackWithInfy+2026+%E2%80%94+L2+Competency+Qualifier+%E2%9C%93;%E2%86%92+National+hackathon+winner+%F0%9F%8F%86;%E2%86%92+Open+to+SWE+%7C+Backend+%7C+Java+Full-Stack+roles" />
 
 <br/>
 
@@ -12,7 +12,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/virochan_v)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/virochan_v/)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=virochan-v&color=00FF9C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -52,7 +51,7 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 
 ### 🔨 Building Now
 - **LogShield v2** — Spring Boot REST API (evolved from Core Java CLI)
-- **Distributed Rate Limiter** — Redis + PostgreSQL + Docker Compose
+
 - Sharpening **Linux CLI** and **Microsoft Azure** daily
 
 </td>
@@ -184,7 +183,7 @@ flowchart LR
 
 <div align="center">
 
-[![View LogShield on GitHub](https://img.shields.io/badge/View_LogShield-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virochan-v/LogShield)
+[![View LogShield on GitHub](https://img.shields.io/badge/View_LogShield-FFB000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virochan-v/LogShield)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Core Java CLI](https://img.shields.io/badge/Type-CLI_Tool-0D1117?style=for-the-badge)]()
 
@@ -226,7 +225,7 @@ flowchart LR
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=virochan-v&theme=github_dark" height="175"/>
-<img src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=FFB000&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" height="175"/>
 
 <br/>
 
@@ -270,7 +269,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=virochan-v&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=virochan-v&bg_color=0D1117&color=FFB000&line=FFB000&point=FFFFFF&area=true&area_color=FFB000&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -295,6 +294,6 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0a3d2e,70:00FF9C,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:2d1f00,70:FFB000,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
