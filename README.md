@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:2d1f00,70:FFB000,100:0D1117&height=240&section=header&text=VIROCHAN%20V&fontSize=64&fontColor=FFB000&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20DSA%20Specialist&descAlignY=57&descSize=18&animation=fadeIn&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=50&lines=root%40virochan%3A~%24+whoami;%E2%86%92+Logic-driven+developer+%26+problem+solver;%E2%86%92+HackWithInfy+2026+%E2%80%94+L2+Competency+Qualifier+%E2%9C%93;%E2%86%92+National+hackathon+winner+%F0%9F%8F%86;%E2%86%92+Open+to+SWE+%7C+Backend+%7C+Java+Full-Stack+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=50&lines=root%40virochan%3A~%24+whoami;%E2%86%92+Logic-First+Problem+Solver;%E2%86%92+HackWithInfy+2026+%E2%80%94+L2+Competency+Qualifier+%E2%9C%93;%E2%86%92+371%C3%97+faster+%7C+one+algorithm+at+a+time;%E2%86%92+Open+to+SWE+%7C+Backend+%7C+Java+Full-Stack" />
 
 <br/>
 
@@ -12,7 +12,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/virochan_v)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/virochan_v/)
 
-
 </div>
 
 ---
@@ -21,9 +20,22 @@
 
 <div align="center">
 
-<img src="terminal.svg" width="100%" alt="Virochan V — Animated Terminal Profile"/>
+<img src="terminal.svg" width="100%" alt="Virochan V — Animated Terminal Boot Sequence"/>
 
 </div>
+
+---
+
+## `$ cat my_story.log`
+
+I didn't start with frameworks. I started with **why.**
+
+Before ever touching Spring Boot, I spent months understanding what happens when you scan 10,000 log entries linearly versus searching them with binary search. The answer — a **371× speedup** — became LogShield, and LogShield became the proof that cleared **HackWithInfy 2026 at the L2 Competency level**, placing me among the top tier of national candidates.
+
+The same instinct carried me to startup stages. A national **1st Prize at IIFT Kakinada** and **2nd Runner-Up at NIT Tiruchirappalli** weren't won with polished decks alone — they were won with the same logic-first thinking I apply to every line of code: understand the problem deeply before proposing a solution. Four Oracle cloud certifications and an international research paper later, I'm now evolving LogShield into a **Spring Boot REST API** — not to collect frameworks, but because the backend world I want to build in lives there.
+
+> [!TIP]
+> 💡 **Core Philosophy:** Every business problem is an algorithm problem in disguise. I engineer solutions from data structures up — not frameworks down.
 
 ---
 
@@ -31,15 +43,13 @@
 
 ```yaml
 name        : Virochan V
-college     : R.M.D. Engineering College — B.Tech CSBS | CGPA: 7.91 / 10.0
-graduation  : May 2027
+college     : R.M.D. Engineering College — B.Tech CSBS
+cgpa        : 7.94 / 10.0  |  Expected: May 2027
 location    : Tamil Nadu, India
+identity    : Logic-First Problem Solver
 target      : Software Engineer · Java Backend · Full-Stack
-status      : 🟢 Actively seeking SWE roles & internships
-philosophy  : "Every business problem is an algorithm problem in disguise."
+superpower  : Turning O(n) into O(log n) — and knowing exactly why it matters
 ```
-
-> 🧠 I engineer solutions **from data structures up — not frameworks down.** I cleared the **L2 Competency bracket of HackWithInfy 2026**, placing among the top tier of national candidates, and have won on startup stages from **IIFT Kakinada to NIT Tiruchirappalli.** When I'm not optimizing time complexity, I'm presenting research at international conferences.
 
 ---
 
@@ -49,15 +59,30 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 <tr>
 <td width="50%" valign="top">
 
-### 🔨 Building Now
-- **LogShield v2** — Spring Boot REST API (evolved from Core Java CLI)
+### 🔨 Currently Building
+- **LogShield v2** — evolving CLI → Spring Boot REST API
+- Deepening **Microsoft Azure** cloud fundamentals
 
-- Sharpening **Linux CLI** and **Microsoft Azure** daily
+### 🗺️ Learning Roadmap
+- [x] Core Java — OOP, Collections, Generics
+- [x] Data Structures — Trie, MinHeap, Stack, Queue
+- [x] Algorithms — Binary Search, Cyclic Sort, Sliding Window
+- [x] Design Patterns — Singleton, Factory, Observer
+- [x] SQL — Queries, joins, basics
+- [x] Git & GitHub — Branching, commits, version control
+- [x] Oracle Cloud — AI, Gen AI, Multicloud (4 certs)
+- [ ] Spring Boot REST APIs *(in progress — LogShield v2)*
+- [ ] Microsoft Azure *(learning)*
+- [ ] Docker & Containerization
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ Certifications
+### ✅ Credentials
+
+<details>
+<summary><b>🏅 View All 8 Certifications</b></summary>
+<br/>
 
 | | Certification | Date |
 |:---:|---|:---:|
@@ -69,6 +94,17 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 | 📚 | NPTEL — Introduction to Machine Learning | 2025 |
 | 📚 | NPTEL — Google Cloud Computing Foundations | 2024 |
 | 📝 | TOEFL ITP 603/677 — C1 Listening & Reading | Mar 2026 |
+
+</details>
+
+<br/>
+
+**Top credentials at a glance:**
+
+![OCI](https://img.shields.io/badge/Oracle_Multicloud_Architect-F80000?style=flat-square&logo=oracle&logoColor=white)
+![GenAI](https://img.shields.io/badge/Oracle_Gen_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL_Elite_96%25-blue?style=flat-square)
+![TOEFL](https://img.shields.io/badge/TOEFL_ITP_603%2F677-grey?style=flat-square)
 
 </td>
 </tr>
@@ -104,7 +140,7 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 
 ### 🛡️ LogShield — Real-Time Log Anomaly Detector
 
-*A CLI-based log analysis engine in Core Java. Every design decision is justified by algorithmic complexity — not convenience.*
+**The project that started with a question:** *"What's the actual cost of linear search at scale?"*
 
 </div>
 
@@ -128,7 +164,7 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 <td>📊 <b>Severity Ranking</b></td>
 <td><code>Cyclic Sort</code></td>
 <td>Minimal memory writes during reorder</td>
-<td><code>O(n)</code> time · <code>O(1)</code> space</td>
+<td><code>O(n)</code> · <code>O(1)</code> space</td>
 </tr>
 <tr>
 <td>📂 <b>Log Retrieval</b></td>
@@ -153,8 +189,48 @@ philosophy  : "Every business problem is an algorithm problem in disguise."
 
 <br/>
 
+> [!NOTE]
+> ⚡ **Benchmark Result:** Binary Search vs Linear Scan on 10,000 log entries
+> `Linear: 2,847ms` → `Binary Search: 7ms` → **371× faster**
+
+<br/>
+
 <details>
-<summary><b>🔍 Click to view LogShield Architecture Diagram</b></summary>
+<summary><b>☕ The code that proved it — click to expand</b></summary>
+<br/>
+
+```java
+// LogShield — BinarySearchRetriever.java
+// The moment O(log n) stopped being theory and became 371× faster in practice
+
+public int retrieve(List<LogEntry> sortedLogs, String targetPattern) {
+    int lo = 0, hi = sortedLogs.size() - 1;
+
+    while (lo <= hi) {
+        int mid = lo + (hi - lo) / 2;          // avoids integer overflow
+        int cmp = sortedLogs.get(mid)
+                            .getPattern()
+                            .compareTo(targetPattern);
+
+        if (cmp == 0) return mid;               // found: O(log n) exit
+        if (cmp < 0)  lo = mid + 1;            // search right half
+        else          hi = mid - 1;            // search left half
+    }
+    return -1;                                  // pattern not in log set
+}
+
+// Benchmarked against LinearSearchRetriever on 10,000 entries:
+// Linear  → iterate every entry until match    → avg 2,847ms
+// Binary  → halve the search space each step  → avg     7ms
+// Result  → 371× faster. Same data. Better algorithm.
+```
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔍 View LogShield System Architecture</b></summary>
 <br/>
 
 ```mermaid
@@ -167,13 +243,12 @@ flowchart LR
     B --> F[📊 MinHeap\nTop-K Anomalies\nO n log k]
 
     C & D & E & F --> G{🔔 Observer\nAlert Dispatcher}
-
     G --> H([🚨 Anomaly Report])
     G --> I([📈 Benchmark Output])
 
-    subgraph Design Patterns Applied
-        J[Singleton\nResource Mgmt]
-        K[Factory\nObject Creation]
+    subgraph GoF Patterns
+        J[Singleton · Resource Mgmt]
+        K[Factory · Object Creation]
     end
 ```
 
@@ -183,9 +258,10 @@ flowchart LR
 
 <div align="center">
 
-[![View LogShield on GitHub](https://img.shields.io/badge/View_LogShield-FFB000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virochan-v/LogShield)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Core Java CLI](https://img.shields.io/badge/Type-CLI_Tool-0D1117?style=for-the-badge)]()
+[![View LogShield](https://img.shields.io/badge/View_LogShield_Repository-FFB000?style=for-the-badge&logo=github&logoColor=black)](https://github.com/virochan-v/LogShield)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CLI](https://img.shields.io/badge/Type-CLI_Tool-0D1117?style=for-the-badge)
+![Status](https://img.shields.io/badge/v2-Spring_Boot_In_Progress-FFB000?style=for-the-badge)
 
 </div>
 
@@ -195,7 +271,7 @@ flowchart LR
 
 <div align="center">
 
-| Rank | Achievement | Event | Year |
+| | Achievement | Event | Year |
 |:---:|---|---|:---:|
 | 🥇 | **1st Prize** + ₹10,000 cash | Fuse: Start-up & Innovation Hackathon — IIFT Kakinada | 2025 |
 | 🥉 | **2nd Runner-Up** | PitchStorm: Ultimate Startup Showdown — NIT Tiruchirappalli | 2025 |
@@ -210,7 +286,6 @@ flowchart LR
 ## `$ cat work.history`
 
 **Software Developer Intern** · CODTECH IT SOLUTIONS PVT LTD · *Jul – Aug 2025*
-
 - Developed and tested application modules using **Java** and web technologies
 - Contributed to **API development** and backend business logic implementation
 
@@ -253,13 +328,11 @@ flowchart LR
 | Category | Topics Covered | Applied In |
 |---|---|---|
 | **Arrays & Strings** | Two Pointers · Sliding Window · Prefix Sum | LeetCode · LogShield |
-| **Searching** | Binary Search · Linear Scan | LogShield — 371× speedup benchmarked |
+| **Searching** | Binary Search · Linear Scan | LogShield — **371× speedup benchmarked** |
 | **Sorting** | Bubble · Selection · Insertion · **Cyclic Sort** | LogShield severity ranking |
 | **Data Structures** | Trie · MinHeap · Stack · Queue | LogShield pattern indexing & top-K |
 | **Design Patterns** | Singleton · Factory · Observer | LogShield architecture |
-| **Foundations** | Recursion · Bit Manipulation · Patterns | LeetCode · SkillRack |
-
-> ⚡ Benchmarked Binary Search vs Linear Scan on 10,000 log entries — achieved **~371× speedup**
+| **Foundations** | Recursion · Bit Manipulation · Two Pointers | LeetCode · SkillRack |
 
 </details>
 
@@ -277,9 +350,11 @@ flowchart LR
 
 ## `$ connect.init() --open-to-work`
 
-<div align="center">
+> [!IMPORTANT]
+> 🟢 **Open to Software Engineering · Backend · Java Full-Stack roles**
+> Internships & Full-Time · Response within 24hrs · Full-time available May 2027
 
-**🟢 Open to Software Engineering · Backend · Java Full-Stack — Internships & Full-Time**
+<div align="center">
 
 <br/>
 
