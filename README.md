@@ -12,6 +12,14 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/virochan_v)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/virochan_v/)
 
+<br/>
+
+![HackWithInfy](https://img.shields.io/badge/HackWithInfy_2026-L2_Qualifier-FFB000?style=flat-square&logo=java&logoColor=black)
+![LeetCode](https://img.shields.io/badge/LeetCode-130%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![LogShield](https://img.shields.io/badge/LogShield-371×_Speedup-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Certs](https://img.shields.io/badge/Oracle_Certified-4_Credentials-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Wins](https://img.shields.io/badge/National_Hackathon-2_Wins-FFB000?style=flat-square)
+
 </div>
 
 ---
@@ -295,12 +303,18 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=virochan-v&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=FFFFFF&ring_color=FFB000" />
-<img height="180" src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=FFB000&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com/?user=virochan-v&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=FFB000&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&card_width=700" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virochan-v&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=FFFFFF&langs_count=8&count_private=true" />
+![Problems](https://img.shields.io/badge/LeetCode_Problems-130%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Speedup](https://img.shields.io/badge/LogShield_Benchmark-371×_Faster-FFB000?style=for-the-badge&logo=openjdk&logoColor=black)
+
+<br/>
+
+![Commits](https://img.shields.io/badge/Contributions-250%2B-FFB000?style=for-the-badge&logo=github&logoColor=black)
+![Certs](https://img.shields.io/badge/Certifications-8_Earned-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Wins](https://img.shields.io/badge/National_Wins-2_Trophies-FFB000?style=for-the-badge)
 
 </div>
 
