@@ -307,14 +307,19 @@ flowchart LR
 
 <br/>
 
-![Problems](https://img.shields.io/badge/LeetCode_Problems-130%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Speedup](https://img.shields.io/badge/LogShield_Benchmark-371×_Faster-FFB000?style=for-the-badge&logo=openjdk&logoColor=black)
+![Followers](https://img.shields.io/github/followers/virochan-v?style=for-the-badge&logo=github&logoColor=black&color=FFB000&labelColor=0D1117&label=GitHub+Followers)
+![Top Language](https://img.shields.io/github/languages/top/virochan-v/LogShield?style=for-the-badge&color=FFB000&labelColor=0D1117&logo=openjdk&logoColor=black)
+![Repo Count](https://img.shields.io/badge/Public_Repos-5-FFB000?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)
 
-<br/>
+</div>
 
-![Commits](https://img.shields.io/badge/Contributions-250%2B-FFB000?style=for-the-badge&logo=github&logoColor=black)
-![Certs](https://img.shields.io/badge/Certifications-8_Earned-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Wins](https://img.shields.io/badge/National_Wins-2_Trophies-FFB000?style=for-the-badge)
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=virochan-v&bg_color=0D1117&color=FFB000&line=FFB000&point=FFFFFF&area=true&area_color=FFB000&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -344,16 +349,6 @@ flowchart LR
 | **Foundations** | Recursion · Bit Manipulation · Two Pointers | LeetCode · SkillRack |
 
 </details>
-
----
-
-## `$ tail -f activity.log`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=virochan-v&bg_color=0D1117&color=FFB000&line=FFB000&point=FFFFFF&area=true&area_color=FFB000&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
 
 ---
 
