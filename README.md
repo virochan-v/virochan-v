@@ -94,6 +94,18 @@ superpower  : Turning O(n) into O(log n) — and knowing exactly why it matters
 <img src="https://skillicons.dev/icons?i=java,mysql,git,github,linux,azure,postman,idea&theme=dark&perline=4" />
 </div>
 
+<br/>
+
+<div align="center">
+
+| 💻 Languages | 🛠️ Tools & IDEs | ☁️ Cloud & OS | 📐 CS Concepts |
+|:---:|:---:|:---:|:---:|
+| `Java` — Primary | `Git` / `GitHub` | `Microsoft Azure` | Data Structures & Algorithms |
+| `SQL` — Basics | `IntelliJ IDEA` | `Linux` CLI | Design Patterns (GoF) |
+| | `Postman` | | SOLID Principles |
+
+</div>
+
 ---
 
 ## `$ cat projects/LogShield.md`
@@ -238,15 +250,6 @@ flowchart LR
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=virochan-v&bg_color=0D1117&color=FFB000&line=FFB000&point=FFFFFF&area=true&area_color=FFB000&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
-
----
-
-## `$ git log --recent --author=virochan-v`
-
-*Live feed · auto-updates every 6 hours via GitHub Actions*
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
