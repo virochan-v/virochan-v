@@ -26,7 +26,7 @@
 
 ## `$ cat my_story.log`
 
-I didn't start with frameworks — I started with **why.** A question about the real cost of linear search at scale led to a **371× speedup**, which became LogShield, which cleared **HackWithInfy 2026 at the L2 Competency level**, placing me among the top tier nationally. The same first-principles thinking won startup stages at **IIFT Kakinada (1st Prize)** and **NIT Tiruchirappalli (2nd Runner-Up)**, earned 4 Oracle cloud certifications, and got a paper presented at the **13th International Biltek Congress.** I'm now evolving LogShield into a **Spring Boot REST API** — not to collect frameworks, but because the backend world I want to build in lives there.
+Most developers reach for a framework first. I reach for a whiteboard and ask *why.* That instinct turned one question — *what does linear search actually cost at 10,000 entries?* — into a **371× benchmark**: Binary Search completing in 7ms what a linear scan took 2,847ms to finish. That proof became **LogShield**, which cleared **HackWithInfy 2026 at the L2 Competency level**, placing me among the top tier of national candidates. The same discipline — understand the problem before touching the keyboard — won national startup stages at **IIFT Kakinada (1st Prize)** and **NIT Tiruchirappalli (2nd Runner-Up)**, produced a paper at the **13th International Biltek Congress**, and earned 4 Oracle cloud certifications. I'm now applying it to Spring Boot: not because it's in demand, but because understanding *why* REST, *why* IoC, *why* dependency injection — that's the only way I know how to build things that last.
 
 > [!TIP]
 > 💡 **Philosophy:** Every business problem is an algorithm problem in disguise. I engineer solutions from data structures up — not frameworks down.
@@ -185,7 +185,6 @@ flowchart LR
 | ⚡ | **L2 Competency Qualifier** — Top-tier nationally | HackWithInfy 2026 | 2026 |
 | 📄 | **International Paper Presenter** | 13th Biltek Congress — Quantum Computation | 2025 |
 | 🧑‍💼 | **Organizing Committee** — "One Pitch" Lead | DEXTERO '26 National Tech Symposium | 2026 |
-| 💼 | **Software Developer Intern** | CODTECH IT SOLUTIONS PVT LTD | 2025 |
 
 </div>
 
@@ -213,6 +212,25 @@ flowchart LR
 <img src="https://leetcard.jacoblin.cool/virochan_v?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=10" />
 </div>
 
+<br/>
+
+<details>
+<summary><b>📊 DSA Topics Mastered — click to expand</b></summary>
+<br/>
+
+| Category | Topics | Applied In |
+|---|---|---|
+| **Arrays & Strings** | Two Pointers · Sliding Window · Prefix Sum | LeetCode |
+| **Searching** | Binary Search · Linear Scan | LogShield — **371× speedup benchmarked** |
+| **Sorting** | Bubble · Selection · Insertion · **Cyclic Sort** | LogShield severity ranking |
+| **Data Structures** | `Trie` · `MinHeap` · Stack · Queue | LogShield pattern indexing & top-K |
+| **Design Patterns** | Singleton · Factory · Observer | LogShield architecture |
+| **Foundations** | Recursion · Bit Manipulation · Math | LeetCode · HackerRank |
+
+> ⚡ Every structure and pattern above has been applied in a real project — not just solved on paper.
+
+</details>
+
 ---
 
 ## `$ tail -f activity.log`
@@ -224,6 +242,8 @@ flowchart LR
 ---
 
 ## `$ git log --recent --author=virochan-v`
+
+*Live feed · auto-updates every 6 hours via GitHub Actions*
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
